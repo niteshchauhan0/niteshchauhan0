@@ -10,7 +10,7 @@
 
 I’m a passionate developer who loves building web applications that are both functional and user-friendly. I enjoy solving real-world problems with clean code, responsive design, and smooth UI/UX.
 
-- 🔧 Skilled in **React.js**, **Tailwind CSS**, **Spring Boot**, **Node.js**, **JSP**, **Servlets**, **MySQL**
+- 🔧 Skilled in **Java**, **React.js**, **Tailwind CSS**, **Spring Boot**, **Node.js**, **JSP**, **MySQL**
 - 💡 Additional tools include **C++**, **Bootstrap**, **MongoDB**, and Git/GitHub
 - 🛠️ Completed projects in eCommerce, job portals, scheduling systems, and student record management
 - 🏋️‍♂️ I also hit the gym daily to balance my screen time!
