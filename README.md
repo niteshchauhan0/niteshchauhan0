@@ -23,7 +23,7 @@ I’m a passionate developer who loves building web applications that are both f
 **Tech Stack**: Spring Boot, React.js, MySQL, Tailwind CSS  
 A full-stack job portal that allows users to register, login, post jobs, search jobs, apply, and manage their profiles. Built with a clean UI and secure authentication.
 
-🔗 **Live Demo**: [JobHook - Job Portal]([https://lnkd.in/gqXtYJQV)
+🔗 **Live Demo**: [JobHook - Job Portal](https://jobportal-frontend-ynnl.onrender.com/)
 
 ---
 
