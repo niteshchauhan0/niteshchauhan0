@@ -39,8 +39,8 @@ Features: Add/update cart, checkout, and responsive UI for mobile.
 
 ## 🛠 Tech Stack
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
@@ -51,7 +51,6 @@ Features: Add/update cart, checkout, and responsive UI for mobile.
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse-ide)
 
 ---
 
