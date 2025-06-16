@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nitesh Chauhan
+# 👋 Hi, I'm Nitesh Singh
 
 💻 Full-Stack Web Developer | 🌐 Passionate Coder | 🧠 Lifelong Learner  
 🎓 B.Tech Graduate | 💼 Currently at CDAC Bengaluru  
@@ -76,7 +76,6 @@ Features: Add/update cart, checkout, and responsive UI for mobile.
 
 - 🌐 [Portfolio](https://nitesh-singh-portfolio.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nitesh-singh-1a6159245/)
-- 🐙 [GitHub](https://github.com/niteshchauhan0)
 - ✉️ Email: niteshchauhan1717@gmail.com
 
 ---
