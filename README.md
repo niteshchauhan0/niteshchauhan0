@@ -31,9 +31,10 @@ Built with **React.js + Tailwind CSS** to showcase my work, skills, and achievem
 
 ---
 
-### 🔹 Shopping Cart Web App
-JSP + Servlets + JDBC + MySQL  
-Features: Add/update cart, checkout, and responsive UI for mobile.
+### 🔹 [Shopping Cart Web App](https://github.com/niteshchauhan0/shopping-cart-jsp)
+**Tech Stack:** JSP + Servlets + JDBC + MySQL  
+**Features:** Add/update cart, checkout, and responsive UI for mobile.
+
 
 ---
 
@@ -41,16 +42,20 @@ Features: Add/update cart, checkout, and responsive UI for mobile.
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
+![.NET](https://img.shields.io/badge/--512BD4?style=flat&logo=dotnet)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot)
+![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F?style=flat&logo=spring)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
 
 ---
 
