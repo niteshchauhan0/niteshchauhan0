@@ -19,22 +19,20 @@ I’m a passionate developer who loves building web applications that are both f
 
 ## 🚀 Projects
 
-### 🌟 [JobHook – Job Portal Application](https://jobportal-frontend-ynnl.onrender.com/)
-**Tech Stack**: Spring Boot, React.js, MySQL, Tailwind CSS  
-A full-stack job portal that allows users to register, login, post jobs, search jobs, apply, and manage their profiles. Built with a clean UI and secure authentication.
+### 🔹 [DocSlot - Online Appointment Scheduling System](https://github.com/niteshchauhan0/docSlot)
+**Tech Stack:** Spring Boot, React.js, MySQL 
+**Features:** Developed a web-based healthcare appointment system with four roles (Admin, Doctor, Patient, Receptionist), enabling real-time booking, cancellations, schedule management, reminders, and centralized records.
 
+---
+
+### 🔹 [JobHook – Job Portal Application](https://jobportal-frontend-ynnl.onrender.com/)
+**Tech Stack**: Spring Boot, React.js, MongoDB, Tailwind CSS  
+A full-stack job portal that allows users to register, login, post jobs, search jobs, apply, and manage their profiles. Built with a clean UI and secure authentication.
 
 ---
 
 ### 🔹 [🖥️ Portfolio Website](https://nitesh-singh-portfolio.netlify.app/)
 Built with **React.js + Tailwind CSS** to showcase my work, skills, and achievements.
-
----
-
-### 🔹 [Shopping Cart Web App](https://github.com/niteshchauhan0/shopping-cart-jsp)
-**Tech Stack:** JSP + Servlets + JDBC + MySQL  
-**Features:** Add/update cart, checkout, and responsive UI for mobile.
-
 
 ---
 
